@@ -11,6 +11,16 @@
     "content": "&copy; All rights reserved.",
     "links": [
       {
+        "text": "Github",
+        "url": "https://github.com/tristanmarsh",
+        "new_window": true
+      },
+      {
+        "text": "Website",
+        "url": "http://tristanmarsh.net/",
+        "new_window": true
+      },
+      {
         "text": "Made with Stackbit",
         "url": "https://www.stackbit.com",
         "new_window": true
